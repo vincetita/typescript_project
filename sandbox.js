@@ -1,4 +1,4 @@
-var character = 'mario';
+var character = 'marioo';
 console.log(character);
 var inputs = document.querySelectorAll('input');
 inputs.forEach(function (input) {
